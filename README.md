@@ -63,87 +63,87 @@ The global AI in Cybersecurity and Automated Threat Defense market is estimated 
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub star count ⭐. Each repository includes a real-time star badge linking directly to its stargazers page.
+Sorted in descending order by GitHub Stars_Count ⭐. Each repository includes a real-time Stars_Badge linking directly to its stargazers page.
 
-- **[Ghidra (`NationalSecurityAgency/ghidra`)](https://github.com/NationalSecurityAgency/ghidra)** [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers) 🔬  
+- **[Ghidra (`NationalSecurityAgency/ghidra`)](https://github.com/NationalSecurityAgency/ghidra)** [![GitHub_Stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers) 🔬  
   National Security Agency's open-source (`Apache-2.0`) software reverse engineering (SRE) suite. Frequently paired with LLM and MCP agents for autonomous binary reverse engineering, malware disassembly, and decompiler analysis.
 
-- **[Trivy (`aquasecurity/trivy`)](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🔍  
+- **[Trivy (`aquasecurity/trivy`)](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🔍  
   Comprehensive open-source (`Apache-2.0`) vulnerability, misconfiguration, secret, and SBOM scanner for containers, Kubernetes, code repositories, and cloud workloads with CI/CD integration.
 
-- **[Anthropic Cybersecurity Skills (`mukul975/Anthropic-Cybersecurity-Skills`)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** [![GitHub stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=social&color=white)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/stargazers) 🧠  
+- **[Anthropic Cybersecurity Skills (`mukul975/Anthropic-Cybersecurity-Skills`)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** [![GitHub_Stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=social&color=white)](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/stargazers) 🧠  
   Extensive collection of modular `SKILL.md` cybersecurity playbooks and agentic tool configurations empowering AI security assistants across threat hunting, DFIR, malware triage, and defense hardening.
 
-- **[Nuclei (`projectdiscovery/nuclei`)](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) 🎯  
+- **[Nuclei (`projectdiscovery/nuclei`)](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) 🎯  
   Fast and customizable open-source (`MIT`) vulnerability scanner based on simple YAML DSL templates, widely leveraged by autonomous red-team agents and security researchers for targeted exploit verification.
 
-- **[OSQuery (`osquery/osquery`)](https://github.com/osquery/osquery)** [![GitHub stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) 💻  
+- **[OSQuery (`osquery/osquery`)](https://github.com/osquery/osquery)** [![GitHub_Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) 💻  
   Operating system instrumentation framework (`Apache-2.0` / `GPL-2.0`) that exposes an OS as a high-performance relational database, enabling SQL queries to detect anomalies, rootkits, and unauthorized processes.
 
-- **[Wazuh (`wazuh/wazuh`)](https://github.com/wazuh/wazuh)** [![GitHub stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 🛡️  
+- **[Wazuh (`wazuh/wazuh`)](https://github.com/wazuh/wazuh)** [![GitHub_Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 🛡️  
   Full-featured open-source (`GPL-2.0`) unified XDR and SIEM platform providing endpoint security monitoring, log analysis, file integrity monitoring (FIM), vulnerability detection, and active threat response.
 
-- **[PentestGPT (`GreyDGL/PentestGPT`)](https://github.com/GreyDGL/PentestGPT)** [![GitHub stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers) 🤖  
+- **[PentestGPT (`GreyDGL/PentestGPT`)](https://github.com/GreyDGL/PentestGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers) 🤖  
   LLM-powered penetration testing agent (`MIT`) designed to assist security professionals through interactive guided reconnaissance, exploit generation, post-exploitation, and automated reporting.
 
-- **[CrowdSec (`crowdsecurity/crowdsec`)](https://github.com/crowdsecurity/crowdsec)** [![GitHub stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers) 👥  
+- **[CrowdSec (`crowdsecurity/crowdsec`)](https://github.com/crowdsecurity/crowdsec)** [![GitHub_Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers) 👥  
   Open-source (`MIT`) collaborative security engine and intrusion prevention system (IPS) analyzing behavioral telemetry to block aggressive actors and share real-time threat intelligence globally.
 
-- **[Atomic Red Team (`redcanaryco/atomic-red-team`)](https://github.com/redcanaryco/atomic-red-team)** [![GitHub stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers) 🧪  
+- **[Atomic Red Team (`redcanaryco/atomic-red-team`)](https://github.com/redcanaryco/atomic-red-team)** [![GitHub_Stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers) 🧪  
   Library of simple, open-source (`MIT`) scripted tests mapped directly to the MITRE ATT&CK framework for validating enterprise detection pipelines, SIEM correlation rules, and autonomous defenders.
 
-- **[Sigma (`SigmaHQ/sigma`)](https://github.com/SigmaHQ/sigma)** [![GitHub stars](https://img.shields.io/github/stars/SigmaHQ/sigma?style=social&color=white)](https://github.com/SigmaHQ/sigma/stargazers) 📜  
+- **[Sigma (`SigmaHQ/sigma`)](https://github.com/SigmaHQ/sigma)** [![GitHub_Stars](https://img.shields.io/github/stars/SigmaHQ/sigma?style=social&color=white)](https://github.com/SigmaHQ/sigma/stargazers) 📜  
   Generic and open signature format (`DRL-1.1`) for SIEM systems, allowing security teams and AI models to write vendor-agnostic threat detection rules convertible to Splunk, Elastic, Sentinel, and QRadar.
 
-- **[Garak (`NVIDIA/garak`)](https://github.com/NVIDIA/garak)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers) 🦹  
+- **[Garak (`NVIDIA/garak`)](https://github.com/NVIDIA/garak)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social&color=white)](https://github.com/NVIDIA/garak/stargazers) 🦹  
   Generative AI vulnerability scanner (`Apache-2.0`) by NVIDIA that probes LLMs for prompt injection, hallucinations, data leaks, jailbreaks, toxicity, and model extraction vulnerabilities.
 
-- **[CAI — Cybersecurity AI (`aliasrobotics/cai`)](https://github.com/aliasrobotics/cai)** [![GitHub stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social&color=white)](https://github.com/aliasrobotics/cai/stargazers) 🦾  
+- **[CAI — Cybersecurity AI (`aliasrobotics/cai`)](https://github.com/aliasrobotics/cai)** [![GitHub_Stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social&color=white)](https://github.com/aliasrobotics/cai/stargazers) 🦾  
   Modular open-source (`AGPL-3.0`) framework tailored for AI security agents, facilitating autonomous offensive red-teaming, blue-team SOC defense, and CTF/exploit discovery workflows.
 
-- **[Falco (`falcosecurity/falco`)](https://github.com/falcosecurity/falco)** [![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers) 🦅  
+- **[Falco (`falcosecurity/falco`)](https://github.com/falcosecurity/falco)** [![GitHub_Stars](https://img.shields.io/github/stars/falcosecurity/falco?style=social&color=white)](https://github.com/falcosecurity/falco/stargazers) 🦅  
   Cloud-native runtime security project (`Apache-2.0`, CNCF Graduated) using Linux eBPF to monitor kernel system calls and detect anomalous behavior across Kubernetes pods and Linux nodes in real time.
 
-- **[Zeek (`zeek/zeek`)](https://github.com/zeek/zeek)** [![GitHub stars](https://img.shields.io/github/stars/zeek/zeek?style=social&color=white)](https://github.com/zeek/zeek/stargazers) 📊  
+- **[Zeek (`zeek/zeek`)](https://github.com/zeek/zeek)** [![GitHub_Stars](https://img.shields.io/github/stars/zeek/zeek?style=social&color=white)](https://github.com/zeek/zeek/stargazers) 📊  
   Powerful open-source network traffic analysis framework (`BSD-3-Clause`) translating raw packet streams into structured event streams and high-fidelity transaction logs optimized for ML analysis.
 
-- **[Arkime (`arkime/arkime`)](https://github.com/arkime/arkime)** [![GitHub stars](https://img.shields.io/github/stars/arkime/arkime?style=social&color=white)](https://github.com/arkime/arkime/stargazers) 🗄️  
+- **[Arkime (`arkime/arkime`)](https://github.com/arkime/arkime)** [![GitHub_Stars](https://img.shields.io/github/stars/arkime/arkime?style=social&color=white)](https://github.com/arkime/arkime/stargazers) 🗄️  
   Large-scale, open-source (`Apache-2.0`) indexed packet capture (PCAP) and network traffic search system providing deep security visibility and incident forensics investigation tools.
 
-- **[CALDERA (`mitre/caldera`)](https://github.com/mitre/caldera)** [![GitHub stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers) ⚔️  
+- **[CALDERA (`mitre/caldera`)](https://github.com/mitre/caldera)** [![GitHub_Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers) ⚔️  
   Scalable, automated adversary emulation system (`Apache-2.0`) built by MITRE on the ATT&CK framework, enabling automated blue-team validation and autonomous breach-and-attack simulation.
 
-- **[NeMo Guardrails (`NVIDIA/NeMo-Guardrails`)](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers) 🚧  
+- **[NeMo Guardrails (`NVIDIA/NeMo-Guardrails`)](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers) 🚧  
   Open-source toolkit (`Apache-2.0`) for establishing programmatic safety, topical, and execution boundaries around LLM applications and conversational AI agents.
 
-- **[Suricata (`OISF/suricata`)](https://github.com/OISF/suricata)** [![GitHub stars](https://img.shields.io/github/stars/OISF/suricata?style=social&color=white)](https://github.com/OISF/suricata/stargazers) 🚨  
+- **[Suricata (`OISF/suricata`)](https://github.com/OISF/suricata)** [![GitHub_Stars](https://img.shields.io/github/stars/OISF/suricata?style=social&color=white)](https://github.com/OISF/suricata/stargazers) 🚨  
   Mature open-source (`GPL-2.0`) high-performance Network Threat Detection, IDS, IPS, and Network Security Monitoring (NSM) engine capable of multi-gigabit inspection.
 
-- **[MISP (`MISP/MISP`)](https://github.com/MISP/MISP)** [![GitHub stars](https://img.shields.io/github/stars/MISP/MISP?style=social&color=white)](https://github.com/MISP/MISP/stargazers) 🌐  
+- **[MISP (`MISP/MISP`)](https://github.com/MISP/MISP)** [![GitHub_Stars](https://img.shields.io/github/stars/MISP/MISP?style=social&color=white)](https://github.com/MISP/MISP/stargazers) 🌐  
   Leading open-source (`AGPL-3.0`) threat sharing platform and open standard for collecting, storing, and distributing Indicators of Compromise (IoCs) and threat actor intelligence.
 
-- **[Purple Llama (`meta-llama/PurpleLlama`)](https://github.com/meta-llama/PurpleLlama)** [![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers) 🦙  
+- **[Purple Llama (`meta-llama/PurpleLlama`)](https://github.com/meta-llama/PurpleLlama)** [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social&color=white)](https://github.com/meta-llama/PurpleLlama/stargazers) 🦙  
   Meta's open-source (`MIT`) umbrella project featuring CyberSecEval benchmarks and cybersecurity evaluation tools to assess LLM security risks and defensive code generation.
 
-- **[Velociraptor (`Velocidex/velociraptor`)](https://github.com/Velocidex/velociraptor)** [![GitHub stars](https://img.shields.io/github/stars/Velocidex/velociraptor?style=social&color=white)](https://github.com/Velocidex/velociraptor/stargazers) 🦖  
+- **[Velociraptor (`Velocidex/velociraptor`)](https://github.com/Velocidex/velociraptor)** [![GitHub_Stars](https://img.shields.io/github/stars/Velocidex/velociraptor?style=social&color=white)](https://github.com/Velocidex/velociraptor/stargazers) 🦖  
   Advanced digital forensics and incident response (DFIR) platform (`AGPL-3.0`) utilizing Velociraptor Query Language (VQL) for fleet-wide real-time hunting and endpoint forensics collection.
 
-- **[TheHive (`TheHive-Project/TheHive`)](https://github.com/TheHive-Project/TheHive)** [![GitHub stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers) 🐝  
+- **[TheHive (`TheHive-Project/TheHive`)](https://github.com/TheHive-Project/TheHive)** [![GitHub_Stars](https://img.shields.io/github/stars/TheHive-Project/TheHive?style=social&color=white)](https://github.com/TheHive-Project/TheHive/stargazers) 🐝  
   Scalable, open-source (`AGPL-3.0`) Security Incident Response Platform (SIRP) closely integrated with MISP and Cortex for alert triage, digital forensics tracking, and case management.
 
-- **[Tracecat (`TracecatHQ/tracecat`)](https://github.com/TracecatHQ/tracecat)** [![GitHub stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=social&color=white)](https://github.com/TracecatHQ/tracecat/stargazers) 🐱  
+- **[Tracecat (`TracecatHQ/tracecat`)](https://github.com/TracecatHQ/tracecat)** [![GitHub_Stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=social&color=white)](https://github.com/TracecatHQ/tracecat/stargazers) 🐱  
   AI-native, open-source (`AGPL-3.0`) security automation and SOAR engine designed as an alternative to Tines/Splunk SOAR, enabling automated alert enrichment and LLM triage.
 
-- **[Snort 3 (`snort3/snort3`)](https://github.com/snort3/snort3)** [![GitHub stars](https://img.shields.io/github/stars/snort3/snort3?style=social&color=white)](https://github.com/snort3/snort3/stargazers) 🐽  
+- **[Snort 3 (`snort3/snort3`)](https://github.com/snort3/snort3)** [![GitHub_Stars](https://img.shields.io/github/stars/snort3/snort3?style=social&color=white)](https://github.com/snort3/snort3/stargazers) 🐽  
   Next-generation open-source (`GPL-2.0`) network intrusion prevention system (NIPS) featuring multithreading, pluggable architecture, and modern packet processing.
 
-- **[Shuffle (`Shuffle/Shuffle`)](https://github.com/Shuffle/Shuffle)** [![GitHub stars](https://img.shields.io/github/stars/Shuffle/Shuffle?style=social&color=white)](https://github.com/Shuffle/Shuffle/stargazers) 🔀  
+- **[Shuffle (`Shuffle/Shuffle`)](https://github.com/Shuffle/Shuffle)** [![GitHub_Stars](https://img.shields.io/github/stars/Shuffle/Shuffle?style=social&color=white)](https://github.com/Shuffle/Shuffle/stargazers) 🔀  
   Open-source (`AGPL-3.0`) visual automation platform and SOAR solution connecting enterprise SIEMs, threat intelligence APIs, and LLM nodes for automated incident response.
 
-- **[Nosey Parker (`praetorian-inc/noseyparker`)](https://github.com/praetorian-inc/noseyparker)** [![GitHub stars](https://img.shields.io/github/stars/praetorian-inc/noseyparker?style=social&color=white)](https://github.com/praetorian-inc/noseyparker/stargazers) 👃  
+- **[Nosey Parker (`praetorian-inc/noseyparker`)](https://github.com/praetorian-inc/noseyparker)** [![GitHub_Stars](https://img.shields.io/github/stars/praetorian-inc/noseyparker?style=social&color=white)](https://github.com/praetorian-inc/noseyparker/stargazers) 👃  
   High-performance secret scanning tool (`Apache-2.0`) implemented in Rust to detect API keys, tokens, and credentials in git history, filesystems, and continuous integration pipelines.
 
-- **[Malcolm (`idaholab/Malcolm`)](https://github.com/idaholab/Malcolm)** [![GitHub stars](https://img.shields.io/github/stars/idaholab/Malcolm?style=social&color=white)](https://github.com/idaholab/Malcolm/stargazers) 📦  
+- **[Malcolm (`idaholab/Malcolm`)](https://github.com/idaholab/Malcolm)** [![GitHub_Stars](https://img.shields.io/github/stars/idaholab/Malcolm?style=social&color=white)](https://github.com/idaholab/Malcolm/stargazers) 📦  
   Powerful, easily deployable network traffic analysis suite (`Apache-2.0`) developed by Idaho National Laboratory, combining Zeek, Suricata, Arkime, and OpenSearch for cyber anomaly discovery.
 
 ---
@@ -154,7 +154,7 @@ Contributions are warmly encouraged! To propose a new SaaS platform, open-source
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-security-tool`.
-3. ✍️ Add the tool in alphabetical order or in its proper star-count position. Ensure factual descriptions, verified links, and specific pricing / star badges.
+3. ✍️ Add the tool in alphabetical order or in its proper star-count position. Ensure factual descriptions, verified links, and specific pricing / Stars_Badges.
 4. 💾 Commit your changes: `git commit -m 'feat: add <tool-name>'`.
 5. 🚀 Push to branch: `git push origin feature/add-new-security-tool`.
 6. 📬 Submit a **Pull Request**!
