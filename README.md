@@ -30,77 +30,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global AI in Cybersecurity and Automated Threat Defense market is estimated at approximately **$39B – $51B in 2026** (scaling past $180B+ by the mid-2030s at an estimated CAGR of ~22%). The sector exhibits a **moderately concentrated platform core with a fragmented innovation edge**: while dominant security titans (Palo Alto Networks, CrowdStrike, Zscaler) capture the lion's share of enterprise budgets via unified XDR and SASE ecosystems, niche domains (agentic red/blue teaming, DSPM, and LLM guardrails) remain highly fragmented with hundreds of emerging point startups that continuously get consolidated or acquired.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[CrowdStrike Falcon (Charlotte AI)](https://crowdstrike.com)**  
-
-  Cloud-native endpoint detection and response (EDR/XDR) platform powered by Charlotte AI for autonomous alert triage, threat hunting, and real-time breach prevention.
-
-
-
-- **[Darktrace (ActiveAI Security Platform)](https://darktrace.com)**  
-
-  Self-learning cyber AI platform utilizing behavioral anomaly detection and Autonomous Response to neutralize novel threats across cloud, network, email, and endpoints.
-
-
-
-- **[SentinelOne Singularity (Purple AI)](https://sentinelone.com)**  
-
-  Autonomous XDR and endpoint protection platform featuring Purple AI security analyst capabilities for natural-language threat hunting and automated remediation.
-
-
-
-- **[Palo Alto Networks Cortex XDR & XSIAM](https://paloaltonetworks.com)**  
-
-  AI-driven security operations and extended detection and response platform correlating endpoint, network, and cloud telemetry to automate SOC investigations.
-
-
-
-- **[Vectra AI](https://vectra.ai)**  
-
-  AI-powered network detection and response (NDR) and attack-signal intelligence platform uncovering hybrid-cloud lateral movement, identity compromise, and C2 activity.
-
-
-
-- **[Cybereason Defense Platform](https://cybereason.com)**  
-
-  Cloud EDR/XDR and MalOp (Malicious Operation) detection platform providing AI-assisted root-cause correlation and automated endpoint containment.
-
-
-
-- **[Zscaler Zero Trust & AI Security](https://zscaler.com)**  
-
-  Cloud-native Zero Trust Exchange incorporating AI-powered threat prevention, inline data loss prevention (DLP), and generative AI traffic governance.
-
-
-
-- **[Trellix XDR](https://trellix.com)**  
-
-  Adaptive extended detection and response platform combining machine-learning threat intelligence with automated security operations workflows across hybrid environments.
-
-
-
-- **[Deep Instinct](https://deepinstinct.com)**  
-
-  Deep-learning cybersecurity platform trained on raw binary data to predict and prevent zero-day malware and ransomware in sub-20 milliseconds prior to execution.
-
-
-
-- **[Skyhigh Security (formerly McAfee MVISION Cloud)](https://skyhighsecurity.com)**  
-
-  Cloud-native Security Service Edge (SSE) and CASB platform offering AI-assisted data protection, shadow-AI discovery, and zero-trust cloud access control.
+| Company / Product | Company Size (Market Cap / Valuation / ARR) | Starting Pricing | Free Tier / Free Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Palo Alto Networks Cortex XDR & XSIAM](https://paloaltonetworks.com)** | ~$198B - $264B Market Cap (~$11.5B ARR) | $40 / endpoint / year (Cortex XDR Prevent tier; Pro tier starts at $70 / endpoint / year) | 30-day guided Proof of Concept (PoC) / evaluation upon enterprise request (no permanent free tier) | AI-driven security operations and extended detection and response platform correlating endpoint, network, and cloud telemetry to automate SOC investigations. |
+| **[CrowdStrike Falcon (Charlotte AI)](https://crowdstrike.com)** | ~$230B - $235B Market Cap (~$5.4B ARR) | $59.99 / device / year ($7.99/mo, Falcon Go tier; Enterprise tier starts at $184.99 / device / year) | 15-day free trial (up to 100 endpoints with NGAV, device control, and Falcon Insight XDR modules; no permanent free tier) | Cloud-native endpoint detection and response (EDR/XDR) platform powered by Charlotte AI for autonomous alert triage, threat hunting, and real-time breach prevention. |
+| **[Zscaler Zero Trust & AI Security](https://zscaler.com)** | ~$30B - $31B Market Cap (~$3.35B ARR) | ~$100 / user / year (ZIA/ZPA foundational business bundles; Advanced Transformation suites start at $300 - $375 / user / year) | 30-day proof-of-concept / guided enterprise trial with interactive live demo lab (no permanent free tier) | Cloud-native Zero Trust Exchange incorporating AI-powered threat prevention, inline data loss prevention (DLP), and generative AI traffic governance. |
+| **[SentinelOne Singularity (Purple AI)](https://sentinelone.com)** | ~$7.7B Market Cap (~$1.0B - $1.1B ARR) | $69.99 / endpoint / year (Singularity Core; Complete EDR starts at $179.99 / endpoint / year) | 30-day guided enterprise Proof of Concept (POC) / trial via sales evaluation (no permanent free tier) | Autonomous XDR and endpoint protection platform featuring Purple AI security analyst capabilities for natural-language threat hunting and automated remediation. |
+| **[Darktrace (ActiveAI Security Platform)](https://darktrace.com)** | $5.3B Acquisition Valuation (~$685M ARR) | ~$20,000 - $35,000 / year (Foundational entry-level network/cloud deployment; median contracts ~$55,200 / year) | 30-day Cyber Threat and Risk Mitigation Proof of Value (POV) deployment with dedicated appliance/cloud sensor (no permanent free tier) | Self-learning cyber AI platform utilizing behavioral anomaly detection and Autonomous Response to neutralize novel threats across cloud, network, email, and endpoints. |
+| **[Trellix XDR](https://trellix.com)** | ~$5.2B Combined PE Valuation (~$940M - $1.1B ARR) | ~$2,000 / year base entry SKU / block (standard enterprise seats ~£20 - £35 / user / year) | 30-day evaluation / trial license via enterprise sales request or AWS Marketplace sandbox (no permanent free tier) | Adaptive extended detection and response platform combining machine-learning threat intelligence with automated security operations workflows across hybrid environments. |
+| **[Vectra AI](https://vectra.ai)** | $1.2B Valuation (~$120M - $178M ARR) | ~$8 - $22 / IP / year (Network Detection & Response; baseline mid-market contracts start ~$150,000 / year) | 30-day guided Proof of Concept (POC) evaluating live network/M365 cloud traffic metadata (no permanent free tier) | AI-powered network detection and response (NDR) and attack-signal intelligence platform uncovering hybrid-cloud lateral movement, identity compromise, and C2 activity. |
+| **[Cybereason Defense Platform](https://cybereason.com)** | ~$850M Valuation (~$120M - $200M ARR) | ~$40 / endpoint / year (Foundational NGAV/EDR tier; scaling to $70+ / endpoint / year for automated MalOp XDR) | 30-day guided enterprise Proof of Concept (POC) / evaluation (no permanent free tier) | Cloud EDR/XDR and MalOp (Malicious Operation) detection platform providing AI-assisted root-cause correlation and automated endpoint containment. |
+| **[Deep Instinct](https://deepinstinct.com)** | ~$500M - $1.0B Valuation (~$10M - $60M ARR) | ~$40 / endpoint / year (Baseline predictive deep-learning prevention tier) | 30-day guided enterprise Proof of Concept (POC) / trial on test endpoints (no permanent free tier) | Deep-learning cybersecurity platform trained on raw binary data to predict and prevent zero-day malware and ransomware in sub-20 milliseconds prior to execution. |
+| **[Skyhigh Security (formerly McAfee MVISION Cloud)](https://skyhighsecurity.com)** | ~$400M+ Segment Value (~$100M - $250M ARR) | ~£16.77 / user / month (~$215 / user / year on standard public procurement cloud frameworks) | 30-day enterprise Proof of Concept (PoC) / guided interactive online simulation demo (no permanent free tier) | Cloud-native Security Service Edge (SSE) and CASB platform offering AI-assisted data protection, shadow-AI discovery, and zero-trust cloud access control. |
 
 
 
